@@ -1,5 +1,4 @@
 # TestRepo
-Testing repository
-This is the first markdown file in 2026
+Started in July 2025 to learn GitHub through hands-on practice.
+Still here, still learning last updated September 2026.
 
-Testing this repo so that i can learn by practicing it
